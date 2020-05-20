@@ -7,4 +7,4 @@ In this paper, we propose a hybrid code representation learning approach, named 
 You can download the source code of Meth2Vec and DeepName from [here](meth2seq.zip)
 
 ### DATASET
-Due to the large volume of our dataset (aroud 20 GB), please contact *rachmanino@yahoo.com* for further use.
+Due to the large volume of our dataset (aroud 25 GB), please contact *rachmanino@yahoo.com* for further use.
