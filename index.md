@@ -4,7 +4,7 @@ Program semantic properties such as class names, method names, and variable name
 In this paper, we propose a hybrid code representation learning approach, named METH2SEQ, to encode a method as a sequence of distributed vector. METH2SEQ represents a method as 1) a bag of paths on the program dependence graph, 2) a sequence of typed intermediate representation statements and 3) a sentence of natural language comment, to scalably capture code semantics. The learned sequence of vectors of a method can be fed to a decoder model to predict program properties. Our evaluation results on the difficult task of method name prediction with a dataset of 280.5K methods in 67 Java projects have demonstrated that METH2SEQ outperforms the two state-of-the-art code representation learning approaches in F1-score by 92.6% and 36.6%, while also outperforming two state-of-the-art method name prediction approaches in F1-score by 85.6% and 178.1%.
 
 ### CODE
-You can download the source code of meth2seq from [here](meth2seq.zip).
+You can download the source code of meth2seq from [here](meth2seq.zip) .
 
 ### DATASET
 Due to the large volume of our dataset (aroud 25 GB), please contact *rachmanino@yahoo.com* for further use.
