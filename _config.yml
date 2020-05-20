@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
-title: A Hybrid Code Representation Learning Approach for
-Predicting Program Semantic Properties
+title: A Hybrid Code Representation Learning Approach for Predicting Program Semantic Properties
 
 github:
   is_project_page: false
